@@ -17,11 +17,7 @@
               "dependencies": [],
               "include_subdirectories": false,
               "outputs": [],
-              "env_vars": [
-                {
-                  "env_var": "CUDA_VISIBLE_DEVICES"
-                }
-              ],
+              "env_vars": [],
               "kubernetes_pod_annotations": [],
               "kubernetes_pod_labels": [],
               "kubernetes_secrets": [],
