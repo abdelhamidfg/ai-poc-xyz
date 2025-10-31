@@ -20,7 +20,7 @@
 	    * Bucket: pipelines
 	-	Click Create.
 
-![S3 connection form](./images/s3-minio-connection.jpg)
+![S3 connection form](/images/s3-minio-connection.jpg)
 
 ## configure Pipeline server
 ## Create workbench as below screenshot
