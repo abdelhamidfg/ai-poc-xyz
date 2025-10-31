@@ -22,10 +22,12 @@
 
 ![S3 connection form](/images/s3-minio-connection.jpg)
 
-## configure Pipeline server
+## Configure Pipeline server
+-  configuring the server by fullfilling s3 minio configurationn parameters
 ## Create workbench as below screenshot
 
 ![workbench](/images/gpu-wb.jpg)
 ![workbench](/images/gpu-wb-attach-connection.jpg)
 
 ##  Clone the git repository 
+- open the created workbench and clone the repository.
