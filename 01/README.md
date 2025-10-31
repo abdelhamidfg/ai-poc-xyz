@@ -25,7 +25,7 @@
 ## configure Pipeline server
 ## Create workbench as below screenshot
 
-![workbench](./images/gpu-wb.jpg)
-![workbench](./images/gpu-wb-attach-connection.jpg)
+![workbench](/images/gpu-wb.jpg)
+![workbench](/images/gpu-wb-attach-connection.jpg)
 
 ##  Clone the git repository 
