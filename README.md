@@ -7,7 +7,7 @@
 
 
 ## Create an S3 Connection to MinIO
-Create the S3 Connection (UI)
+- Create the S3 Connection (UI).
 	-	In the RHOAI Dashboard, open your Data Science Project → Connections → Create connection.
 	-	Connection type: S3 compatible object storage – v1
 	-	Fill the form (adapt values to your cluster):
