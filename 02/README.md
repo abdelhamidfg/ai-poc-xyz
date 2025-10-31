@@ -2,6 +2,7 @@
 
 - A **Data Science Project** in RHOAI.
 - MinIO reachable from your project (Service/Route), with **access key/secret**.
+-  upload data.zip folder into a folder with name data in the s3 bucket
 
  
 ---
