@@ -24,5 +24,5 @@ stringData:
 ## Create a new workbench
 
 ![workbench](/images/2-ingestion-wb.jpg) 
-![workbench](/images/2-gpu-wb-attach-connection.jpg) 
+![workbench](/images/gpu-wb-attach-connection.jpg) 
 
