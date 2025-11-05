@@ -26,3 +26,6 @@
 
 ![workbench](/images/exper-create-run3.jpg) 
 ![workbench](/images/exper-create-run4.jpg) 
+
+## Compare runs
+![workbench](/images/exper-compare-run.jpg) 
